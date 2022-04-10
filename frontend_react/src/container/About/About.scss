@@ -1,0 +1,26 @@
+.app__about {
+    flex: 1;
+    width: 100%;
+    flex-direction: column;
+  }
+  
+  .app_profiles {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+  }
+  
+  .app__profile-item {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 2rem;
+    font-size: 1.2rem;
+    @media screen and (min-width: 2000px) {
+      width: 370px;
+      margin: 2rem 4rem;
+    }
+  }
