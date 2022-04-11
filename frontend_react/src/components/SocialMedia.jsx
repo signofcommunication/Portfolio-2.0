@@ -13,7 +13,7 @@ function SocialMedia() {
           <BsLinkedin />
         </div>
       </a>
-      <a href="https://github.com/jhvonsky" target="_blank" rel="noreferrer">
+      <a href="https://github.com/signofcommunication" target="_blank" rel="noreferrer">
         <div>
           <BsGithub />
         </div>
